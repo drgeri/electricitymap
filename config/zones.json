@@ -24,6 +24,7 @@
       "coal": 598,
       "gas": 4466,
       "hydro": 11947,
+      "hydro storage": 3600,
       "oil": 178,
       "solar": 723,
       "wind": 2696,
